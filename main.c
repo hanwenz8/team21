@@ -6,7 +6,7 @@
   
   File Name:
     main.c
-#hehe
+#he
   Summary:
     This file contains the "main" function for an MPLAB Harmony project.
 
